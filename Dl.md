@@ -17,3 +17,6 @@ La liste des objet necessaire
 
 ## Pour l'installation de VS
 
+![Deux modules VS](https://raw.githubusercontent.com/SwordOfNayru/Notes/main/vs1.png)
+
+![Troisième module VS](https://raw.githubusercontent.com/SwordOfNayru/Notes/main/vs2.png)
